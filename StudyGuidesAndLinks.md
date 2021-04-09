@@ -15,3 +15,7 @@ https://docs.microsoft.com/en-us/learn/certifications/exams/ms-500
 
 https://github.com/MicrosoftLearning/MS-500-Microsoft-365-Security
 
+### Video Courses
+
+https://www.pluralsight.com/courses/microsoft-365-security-concepts
+
