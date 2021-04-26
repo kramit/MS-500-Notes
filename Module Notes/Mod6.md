@@ -11,7 +11,6 @@ https://github.com/azsec/azure-sentinel-tools/blob/master/scripts/New-AzSentinel
 https://azurecloudai.blog/2021/02/25/how-to-generate-azure-sentinel-incidents-for-testing/
 
 
-
 ### Lesson 1: Security dashboard
 
 Demonstration:  Office 365 Security Dashboard
@@ -35,6 +34,15 @@ Using the Microsoft Intelligent Security Graph
 https://youtu.be/-Q_G3yF9ZL4
 
 ### Lesson 3: Azure Sentinel
+
+https://github.com/Azure/Azure-Sentinel/wiki
+
+https://github.com/Azure/Azure-Sentinel/blob/master/Tools/stats/stats.md
+
+https://feedback.azure.com/forums/920458-azure-sentinel
+
+jyupter notebooks
+https://www.youtube.com/watch?v=rewdNeX6H94
 
 That’s why we re-imagined the SIEM + SOAR tool to introduce a new cloud-native solution called Microsoft Azure Sentinel - providing intelligent security analytics at cloud scale for your entire enterprise.
  Azure Sentinel makes it easy to collect security data across your entire hybrid organization from devices, users, apps, servers and any cloud, it uses the power of artificial intelligence to ensure you are identifying real threats quickly, and unleashes you from the burden of traditional SIEMs by eliminating the need to spend time on setting up, maintaining and scaling infrastructure. 
@@ -96,3 +104,11 @@ With Azure Sentinel hunting, you can take advantage of the following capabilitie
 
 Overview of ATA Deployment
 https://youtu.be/UvhozhWq25I
+
+
+For more info click here:
+Download ATA -  http://aka.ms/ataeval​ 
+Microsoft Docs - https://docs.microsoft.com/en-us/adva...​
+ATA Sizing Tool - http://aka.ms/atasizingtool​ 
+ATA Suspicious Activity Playbook - http://aka.ms/ataplaybook​
+ATA POC Deployment Guide - http://aka.ms/atapoc
