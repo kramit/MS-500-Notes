@@ -43,6 +43,7 @@ https://feedback.azure.com/forums/920458-azure-sentinel
 
 jyupter notebooks
 https://www.youtube.com/watch?v=rewdNeX6H94
+https://www.youtube.com/watch?v=TgRRJeoyAYw
 
 That’s why we re-imagined the SIEM + SOAR tool to introduce a new cloud-native solution called Microsoft Azure Sentinel - providing intelligent security analytics at cloud scale for your entire enterprise.
  Azure Sentinel makes it easy to collect security data across your entire hybrid organization from devices, users, apps, servers and any cloud, it uses the power of artificial intelligence to ensure you are identifying real threats quickly, and unleashes you from the burden of traditional SIEMs by eliminating the need to spend time on setting up, maintaining and scaling infrastructure. 
