@@ -1,5 +1,24 @@
 ## Module 01: User and group management
 
+
+### Talking points
+
+***Labs talking points***
+
+Microsoft Online Services Sign-in Assistant
+
+
+Recovery of deleted groups in powershell
+
+```
+Connect-AzureAD
+Get-AzureADMSDeletedGroup
+Restore-AzureADMSDeletedDirectoryObject -Id {objectId}
+```
+
+
+
+
 ### Zero Trust
 
 Zero-Trust overview (includes eBook) aka.ms/zero-trust
@@ -51,6 +70,8 @@ https://youtu.be/t3OLvYXepvE
 
 
 ### Password Management
+
+https://aka.ms/gopasswordless
 
 Demonstration: Implement Multi-factor authentication
 https://youtu.be/SN-J7L1na34

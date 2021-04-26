@@ -45,3 +45,8 @@ https://youtu.be/DNh9E3MWa7o
 
 How to Use the Microsoft Secure Score API
 https://youtu.be/vg3QKQWVD6Y
+
+
+Secure score tooling (scripts for API access from M$)
+https://github.com/OfficeDev/O365-Cloud-Sec-Tooling
+

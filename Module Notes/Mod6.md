@@ -1,5 +1,17 @@
 ## Module 06: Threat management
 
+### Talking points
+
+Azure Sentinal test incidents
+
+https://azsec.azurewebsites.net/2020/01/06/create-a-fully-customized-azure-sentinel-incident/
+
+https://github.com/azsec/azure-sentinel-tools/blob/master/scripts/New-AzSentinelIncident.ps1
+
+https://azurecloudai.blog/2021/02/25/how-to-generate-azure-sentinel-incidents-for-testing/
+
+
+
 ### Lesson 1: Security dashboard
 
 Demonstration:  Office 365 Security Dashboard

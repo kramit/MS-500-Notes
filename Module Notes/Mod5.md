@@ -70,3 +70,6 @@ Follow the annotations and blinking circle for where to click.
 Time required: 15 minutes
   
 Guided demo link: https://aka.ms/MDATP_TVM_InteractiveGuide
+
+
+Defender ATP for endpoints https://www.youtube.com/watch?v=U7jWbXx_bmE

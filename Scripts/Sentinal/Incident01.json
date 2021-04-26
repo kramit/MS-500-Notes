@@ -1,0 +1,26 @@
+{
+    "properties":  {
+                       "startTimeUtc":  "2020-20-04T00:00:00Z",
+                       "createdTimeUtc":  "2020-20-04T00:00:00Z",
+                       "endTimeUtc":  "2020-20-04T00:00:00Z",
+                       "title":  "This is a test incident",
+                       "description":  "..then why am I seeing this incident?",
+                       "owner":  {
+                                     "objectId":  "b8c7b934-b040-4156-a089-fb344add2d6c",
+                                     "email":  "andy@azsec.net",
+                                     "name":  "Andy"
+                                 },
+                       "severity":  "High",
+                       "closeReson":  "",
+                       "status":  "New",
+                       "caseNumber":  1331000000,
+                       "labels":  [
+                                      "sample-incident",
+                                      "test"
+                                  ],
+                       "relatedAlertIds":  [
+                                               "921214ee-beaa-43b5-ab40-0b8b8280511e"
+                                           ]
+                   },
+    "name":  "309590be-6dfa-41b6-9e27-ff73c4f70007"
+}
