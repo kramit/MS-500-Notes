@@ -21,6 +21,9 @@ https://youtu.be/kHUEVUKXbBM
 
 ### Lesson 2: Threat investigation and response
 
+Automated investigations in Microsoft Defender ATP
+https://www.youtube.com/watch?v=rzu_Unz0Snc&t=271s
+
 Demonstration: Threat Dashboard and Explorer
 https://youtu.be/krFAjIkD66M
 
