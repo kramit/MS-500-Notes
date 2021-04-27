@@ -2,6 +2,9 @@
 
 ### Lesson 1: Deploy Cloud Application Security
 
+CAP Overview
+https://www.youtube.com/watch?v=fM3_0P8MFUo
+
 Microsoft Cloud Application Security
 https://youtu.be/D0m4M4NFrx0
 
