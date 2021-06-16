@@ -52,7 +52,7 @@ Demonstration of Microsoft Defender for Identity
 https://youtu.be/EGY2m8yU_KE
 
 Interactive Guide: Investigate and respond to attacks with Microsoft Defender for Identity 
-https://aka.ms/MSDI.IG 
+https://aka.ms/MSDI_IG
 
 Microsoft Defender for Endpoint explained
 https://youtu.be/DFsJisQc_Oo
